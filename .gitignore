@@ -8,6 +8,8 @@
 bin/
 tmp/
 *.tmp
+*.mp3
+*.ogg
 *.bak
 *.swp
 *~.nib
