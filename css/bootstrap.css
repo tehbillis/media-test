@@ -227,8 +227,15 @@ body {
   font-size: 14px;
   line-height: 20px;
   color: #333333;
+  /*Disable text highlighting*/
   background-color: #ffffff;
-}
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}   
 
 a {
   color: #0088cc;
